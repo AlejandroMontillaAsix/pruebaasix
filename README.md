@@ -1,2 +1,2 @@
 # pruebaasix
-Y esto es una prueba de modificación de un archivo
+Y esto es una prueba de modificación de un archivo.
